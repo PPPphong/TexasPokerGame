@@ -22,6 +22,8 @@ const plugin: EggPlugin = {
     enable: true,
     package: 'egg-mysql',
   },
+  // session: false,
+  // schedule: false,
 };
 
 export default plugin;
